@@ -2,6 +2,9 @@
 
 This Unity project demonstrates two alternative implementations based on performance and visual needs.
 
+![Example Image](Example.png)
+
+
 ## Effect 1: Render Texture
 
 This effect creates a render texture to achieve the appearance of an object on a surface, such as a table. To implement this:
